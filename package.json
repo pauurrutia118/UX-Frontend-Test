@@ -1,7 +1,7 @@
 {
-  "name": "npmboilerplatetest",
+  "name": "UxFrontendTest",
   "version": "1.0.0",
-  "description": "my first npm project",
+  "description": "a ux frontend test",
   "main": "index.js",
   "scripts": {
     "css": "node-sass -o dist/css src/scss --output-style compressed --source-map-embed",
